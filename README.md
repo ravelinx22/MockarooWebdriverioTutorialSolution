@@ -1,6 +1,6 @@
 # MockarooWebdriverio
 
-Basic structure for the integration of Mockaroo with Webdriverio for E2E Testing tutorial.
+Basic structure for the integration of Mockaroo with Webdriverio for E2E Testing tutorial solution.
 
 [Tutorial Link](https://testerink.gitbook.io/taller7/)
 
